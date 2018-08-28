@@ -6,7 +6,7 @@ package com.mycompany.app;
 public class App
 {
 
-    private final String message = "Hello World! this is jenkins class and Github class 12-08-2018";
+    private final String message = "Hello World! this is jenkins class and Github class 27-08-2018";
 
     public App() {}
 
